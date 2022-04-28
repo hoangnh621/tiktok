@@ -1,6 +1,4 @@
 {
-  "prettier.configPath": "prettierrc.json",
-
   "files.eol": "\n",
   "editor.rulers": [80],
   "workbench.colorCustomizations": {
